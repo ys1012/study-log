@@ -11,5 +11,6 @@ ITインフラを軸とした「仕組み」による課題解決を追求して
 
 ## 📖 Technical Knowledge : In Progress 🚀
 ## ⚡ Activity Log ⚡
+**2026-03-25**：Linuxサーバー学習開始
 **2026-03-22**：Qiitaに初投稿  
 **2026-03-21**：学習ログ開始
