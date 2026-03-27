@@ -10,7 +10,8 @@ ITインフラを軸とした「仕組み」による課題解決を追求して
 **[🏆️ 合格済み認定資格 🏆️](./CERTIFICATIONS.md)**
 
 ## 📖 Technical Knowledge : In Progress 🚀
-- **Linuxサーバー**  
+- **Linuxサーバー** | LinuC
+- **ネットワーク** | CCNA  
 ## ⚡ Activity Log ⚡
 **2026-03-25**：Linuxサーバー学習開始  
 **2026-03-22**：Qiitaに初投稿  
