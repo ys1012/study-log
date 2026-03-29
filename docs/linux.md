@@ -5,9 +5,9 @@
 最小構成だと日本語が打てない(例：有線接続)  
 ipアドレス設定のstaticとdynamicが共存してしまい苦しむ　→　manual　を忘れずに  
 キャッシュサーバーの場合 named.confファイルのrecursionはyesのまま  
--再起動しても設定が引違れるenableと-permanent
+再起動しても設定が引違れるenableと-permanent  
 実習環境では最初にNATネットワーク無効化を忘れないこと  
--メールサーバーの構築実習  
+- メールサーバーの構築実習  
 Postfixの設定ファイルであるmain.cfの設定は工夫必要  
 最初のインストール構成によって必要な部品がないこともあるらしい  
 cyrus-sasl-plainがインストールされていなかった  
