@@ -1,11 +1,23 @@
 [🏠 README（トップ）に戻る](../README.md)
+### 2026-03-30
+- Mailサーバーの構築実習  
+実習環境では暗号化なしで構築
+CUIのメールクライアントソフトはMUTT
+MUTTが暗号化されていない通信を拒否する状態
+-e "set ssl_force_tls=no; set ssl_starttls=no"　非暗号化の強制と暗号化切り替え拒否
+- 管理運用実習
+ユーザー作成でUPG自動作成  
+PWDコマンドはPrint Working Directory の意味
+ユーザー削除は-rコマンド忘れずに  
+サーバー証明書は~/.ssh/known_hostsに保存されている  
+
 
 ### 2026-03-29
 - DNSサーバーの構築実習  
 最小構成だと日本語が打てない(例：有線接続)  
 ipアドレス設定のstaticとdynamicが共存してしまい苦しむ　→　manual　を忘れずに  
 キャッシュサーバーの場合 named.confファイルのrecursionはyesのまま  
-再起動しても設定が引違れるenableと-permanent  
+再起動しても設定が引き継がれるenableと-permanent  
 実習環境では最初にNATネットワーク無効化を忘れないこと  
 - メールサーバーの構築実習  
 Postfixの設定ファイルであるmain.cfの設定は工夫必要  
