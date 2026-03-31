@@ -1,6 +1,6 @@
 ---
 title: テスト投稿
-tags:
+tags:tags: ["テスト"]
   - ''
 private: false
 updated_at: ''
