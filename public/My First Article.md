@@ -1,10 +1,12 @@
 ---
-id: null
-title: "テスト投稿"
-tags: ["テスト"]
+title: テスト投稿
+tags:
+  - テスト
 private: false
-updated_at: null
+updated_at: '2026-03-31T15:49:46+09:00'
+id: 9c52bdb878a1aa417157
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 これはテスト投稿です
