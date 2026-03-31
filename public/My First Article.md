@@ -1,12 +1,10 @@
 ---
-title: テスト投稿
-tags:tags: ["テスト"]
-  - ''
-private: false
-updated_at: ''
 id: null
+title: "テスト投稿"
+tags: ["テスト"]
+private: false
+updated_at: null
 organization_url_name: null
 slide: false
-ignorePublish: false
 ---
-# こちらはテスト投稿です
+これはテスト投稿です
