@@ -13,6 +13,7 @@ ITインフラを軸とした「仕組み」による課題解決を追求して
 - [**Linux** | LinuC](./docs/linux.md)
 - [**Networking** | CCNA](./docs/networking.md)
 ## ⚡ Activity Log ⚡
+**2026-06-15**：LinuC[201]試験合格  
 **2026-05-15**：LinuC[102]試験合格  
 **2026-04-29**：LinuC[101]試験合格  
 **2026-03-31**：Qiita自動連携開始  
