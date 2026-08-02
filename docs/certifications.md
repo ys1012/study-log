@@ -3,7 +3,7 @@
 - **基本情報技術者試験（FE）**
 - **応用情報技術者試験（AP）**
 ### 🏗️ ITインフラ
-- **LinuC レベル1**
+- **LinuC レベル2**
 ### 💻️ プログラミング言語
 - **VBAエキスパート　Excel VBA スタンダード**
 - **Oracle Certified Java Programmer, Silver SE 11 認定資格**
