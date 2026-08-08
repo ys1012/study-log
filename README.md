@@ -9,9 +9,12 @@ ITインフラを軸とした「仕組み」による課題解決を追求して
 
 **[🏆️ 合格済み認定資格 🏆️](./docs/certifications.md)**
 
-## 📖 Technical Knowledge : In Progress 🚀
+## 📖 Technical Knowledge
+### 🚀 In Progress
+- [**Cloud** | AWS](./docs/cloud.md)
+### 📚 Learning History & Archives
 - [**Linux** | LinuC](./docs/linux.md)
-- [**Networking** | CCNA](./docs/networking.md)
+
 ## ⚡ Activity Log ⚡
 **2026-08-01**：LinuC[202]試験合格  
 **2026-06-15**：LinuC[201]試験合格  
