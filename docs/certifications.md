@@ -4,6 +4,7 @@
 - **応用情報技術者試験（AP）**
 ### 🏗️ ITインフラ
 - **LinuC レベル2**
+- **AWS CLF**
 ### 💻️ プログラミング言語
 - **VBAエキスパート　Excel VBA スタンダード**
 - **Oracle Certified Java Programmer, Silver SE 11 認定資格**
