@@ -1,5 +1,13 @@
 [🏠 README（トップ）に戻る](../README.md)
 
+### 2026-11-22
+- AWS DVA  
+AWS DVA試験合格
+
+### 2026-11-16~11-21　　
+- AWS DVA  
+DVA問題演習(Udemy)
+
 ### 2026-11-04~11-15　　
 - AWS DVA  
 DVA問題演習(Udemy)
