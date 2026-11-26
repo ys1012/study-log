@@ -5,6 +5,7 @@
 ### 🏗️ ITインフラ
 - **LinuC レベル2**
 - **AWS SAA**
+- **AWS DVA**
 ### 💻️ プログラミング言語
 - **VBAエキスパート　Excel VBA スタンダード**
 - **Oracle Certified Java Programmer, Silver SE 11 認定資格**
